@@ -1,0 +1,6 @@
+---
+applications:
+- name: jenkins-test-nodejs
+  memory: 128M
+  instances: 1
+  path: .

@@ -1,0 +1,7 @@
+---
+applications:
+- name: jenkins-test-nodejs
+  memory: 128M
+  instances: 1
+  domain: us-east.cf.yaas.io
+  path: .
